@@ -12,7 +12,7 @@ function Hero({}: Props) {
 
     const [text, count] = useTypewriter({
         words:[
-            "Hi, The Name's is Rivu Naskar",
+            "Hi, The Name's Rivu Naskar",
             "Guy-who-loves-coffee.tsx",
             "<ButLovesToCodeMore />"
         ],
